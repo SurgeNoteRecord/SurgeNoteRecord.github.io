@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://surgenoterecord.github.io/sitemap.xml
